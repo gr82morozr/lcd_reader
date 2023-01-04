@@ -1,0 +1,7 @@
+{
+  "IMAGE_FOLDER"    : "./labeled_images/BIG",
+  "MODEL_NAME"      : "lcd_image_model",
+  "LOG_FILE"        : "./lcd_reading.log",
+  "CHECKPOINT_DIR"  : "./checkpoints/",
+  "CLASS_NAMES"     : ["0","1","2","3","4","5","6","7","8","9","BLANK","NA"]
+}
